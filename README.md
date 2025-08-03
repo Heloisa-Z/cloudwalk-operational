@@ -38,6 +38,13 @@ python scripts/preprocess_metrics.py
 
 After running these scripts, import output/transactions_preprocessed.csv into Power BI to build dashboards, visualizations, and generate insights addressing the business questions.
 
+## ⭐ Extras
+
+Executive Report.pdf -> Report with key insights and ideal for understanding dashboards and key KPIs
+
+CloudWalk_Operational_Intelligence.pbix -> Original editable file developed in Power BI Desktop. It contains connections to data, DAX measures, and interactive dashboards.
+
+
 ## 👋 Contact & Support
 For questions, suggestions, or contributions, please contact :
 
